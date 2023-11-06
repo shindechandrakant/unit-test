@@ -1,4 +1,4 @@
-const isEven = require("../index.js");
+const isEven = require("../other/isEven.js");
 
 
 describe("isEven", () => {

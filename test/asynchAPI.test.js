@@ -1,6 +1,4 @@
-const fetchData = require("../asynchAPI.js");
-
-
+const fetchData = require("../other/asynchAPI.js");
 
 describe("Test Async API Calls", () => {
     
